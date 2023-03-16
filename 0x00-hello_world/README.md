@@ -63,4 +63,4 @@ Warnings are allowed
 Program should return 0
 Might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option
 
-A suivre
+A suivre ...
